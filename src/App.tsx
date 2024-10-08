@@ -2,8 +2,7 @@ export default function App() {
   return (
     <main className="flex justify-center pt-[200px]">
       {/* top */}
-      {/* shadow-[0px 1px 2px -1px rgb(0 0 0 / 0.10), 0px 1px 3px 0 rgb(0 0 0 / 0.10)] */}
-      <div className="flex flex-col gap-4 bg-white w-[340px] rounded-lg p-6">
+      <div className="flex flex-col gap-4 bg-white w-[340px] rounded-lg p-6 drop-shadow">
         <div className="flex">
           <img
             src="/assets/avatar.png"
